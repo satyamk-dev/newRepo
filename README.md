@@ -1,2 +1,2 @@
 # newRepo
-new changes 
+Initial repository setup with basic project structure.
